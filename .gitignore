@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+*.iml
+current.log
+target/
+src/main/resources/grofers-features/
+logs/
+.classpath
+.project
+.settings/
